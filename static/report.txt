@@ -1,0 +1,16 @@
+Resume File: manya.pdf
+Resume Length (in words): 463
+Readability Score: 20.36
+
+Keyword Frequency (Fixed + Custom):
+teamwork: 0
+ai&ml: 0
+machine learning: 0
+numpy: 0
+pandas: 0
+c++: 1
+data analysis: 0
+sql: 1
+java: 2
+communication: 4
+python: 1
